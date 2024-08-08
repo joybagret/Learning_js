@@ -18,5 +18,4 @@ function fetchHelloWorld() {
         });
 }
 
-// Call the function
 fetchHelloWorld();
