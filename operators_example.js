@@ -1,0 +1,17 @@
+let x = 3
+let y = 4
+console.log("x+y =", x+y)
+console.log("x-y =", x-y)
+console.log("x**y =", x**y)
+console.log("x*y =", x*y)
+console.log("x/y =", x/y)
+console.log("x++ =",x++)
+
+let a = 2
+let b = 1
+console.log("++a =",++a)
+console.log("a-- =",a--)
+console.log("--a =",--a)
+console.log("a==b", a==b)
+console.log("a===b", a===b)
+console.log("a!=b", a!=b)
