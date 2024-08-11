@@ -15,3 +15,9 @@ console.log("--a =",--a)
 console.log("a==b", a==b)
 console.log("a===b", a===b)
 console.log("a!=b", a!=b)
+console.log("a!==b", a!==b)
+
+let c = 6
+let d = 7
+console.log("c>d",c>d)
+console.log("c<d",c<d)
