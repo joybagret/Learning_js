@@ -10,6 +10,7 @@ console.log("x++ =",x++)
 let a = 2
 let b = 1
 console.log("++a =",++a)
+console.log(a)
 console.log("a-- =",a--)
 console.log("--a =",--a)
 console.log("a==b", a==b)
