@@ -6,4 +6,5 @@ console.log(n)
 //let r = n.shift()
 //console.log(r, n)
 let r = n.unshift(16)
+console.log(r, n)
 
